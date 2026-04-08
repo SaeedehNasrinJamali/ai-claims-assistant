@@ -2,7 +2,7 @@ import json
 from openai import OpenAI
 from config import OPENAI_API_KEY
 
-# Create API client safely (no hardcoded key)
+# Create API client safely 
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 
