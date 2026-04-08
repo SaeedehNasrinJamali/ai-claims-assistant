@@ -36,7 +36,7 @@ question → parsed output → query → final answer
 
 Demo Video
 
-[Watch Demo](https://www.youtube.com/watch?v=mztIE-iEQdM)
+https://youtu.be/mztlE-iEQdM?si=mqmgqJW-hWgVxSvE
 ---
 - Tech Stack  
 Python, SQL, OpenAI API, Pandas, Streamlit
