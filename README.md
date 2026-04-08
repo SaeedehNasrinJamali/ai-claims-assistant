@@ -34,7 +34,9 @@ The average claim amount for Auto policies in Quebec is approximately $1,415.
 This demo shows the full workflow using a Streamlit interface:
 question → parsed output → query → final answer  
 
-**Watch Demo:** [Click here](https://youtu.be/mztIE-iEQdM)
+Demo Video
+
+[Watch Demo](https://www.youtube.com/watch?v=mztIE-iEQdM)
 ---
 - Tech Stack  
 Python, SQL, OpenAI API, Pandas, Streamlit
